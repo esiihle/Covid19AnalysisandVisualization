@@ -35,6 +35,6 @@ This project combines advanced SQL for data analysis and Tableau for data visual
     * **Data Transformation:** Employed `CAST` and `CONVERT` to handle data type conversions, ensuring accurate calculations for percentages and death counts.
     * **Aggregations & Grouping:** Utilized `SUM` and `MAX` with `GROUP BY` to derive key metrics such as total cases, total deaths, and death counts by continent.
     * **Window Functions & CTEs:** Used the `SUM() OVER (PARTITION BY...)` window function to calculate the `RollingPeopleVaccinated` count. A Common Table Expression (CTE) was used to perform further calculations on this partitioned data, demonstrating proficiency in advanced analytical techniques.
-* **Tableau & Data Visualization:**
+* **Data Visualization:**
     * The SQL queries were specifically designed to serve as the foundational data for building **interactive Power BI dashboards**.
     * The visualizations include charts and maps that allow users to explore key metrics like **total cases**, **deaths**, and **vaccination percentages** with ease.
